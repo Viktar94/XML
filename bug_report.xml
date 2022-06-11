@@ -1,12 +1,11 @@
-Шаги для воспроизведения:
-1. Открыть…
-2. Кликнуть…
-3. Ввести в поле… значение N1
-4. Ввести в поле… значение N2
-4. Кликнуть кнопку Calculate
-
-Результат:
-В поле Result отображается V1.
-
-Ожидаемый результат:
-В поле Result отображается V2.
+<?xml version="1.0" encoding="UTF-8"?>
+<BUG_REPORT>
+  <SUMMARY>Send Email button return options not related to sending Email</SUMMARY>
+  <SEVERITY>Minor</SEVERITY>
+  <PRIORITY>Low</PRIORITY>
+  <ENVIRONMENT>Samsung Galaxy S9+, Android 10</ENVIRONMENT>
+  <PRECONDITION>Installing app on device</PRECONDITION>
+  <STR>Open app, Press 'Send e-mail' button</STR>
+  <AR>App return different links not related to sending email</AR>
+  <ER>App return  links related to sending email</ER>
+</BUG_REPORT>
