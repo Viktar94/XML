@@ -1,5 +1,8 @@
-1)Forrest Gump
-2)Lost
-3)Pizza
-4)Summer
-5)England
+<?xml version="1.0" encoding="UTF-8"?>
+<PREFERENCES>
+	<FAV_FILM>Forre Gump</FAV_FILM>
+	<FAV_SERIES>Lost</FAV_SERIES>
+	<FAV_FOOD>Pizza</FAV_FOOD>
+	<FAV_SEASON>Summer</FAV_SEASON>
+	<COUNTRY_TO_VIS>England</COUNTRY_TO_VIS>
+</PREFERENCES>
