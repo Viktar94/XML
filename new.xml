@@ -1,4 +1,7 @@
-1)Петрович Петр Петрович
-2)27
-3)0
-4)500-700
+<?xml version="1.0" encoding="UTF-8"?>
+<INFO>
+	<FIO> Petrov Petr Petrovich</FIO>
+	<AGE>27</AGE>
+	<PETS_AMOUNT>0</PETS_AMOUNT>
+	<SALARY_DOL>800</SALARY_DOL>
+</INFO>
